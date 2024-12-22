@@ -26,7 +26,7 @@ export class AppComponent implements OnInit {
         'Bulbizarre',
         'Mon deuxième meilleur pokémon !',
         new Date(),
-        0,
+        1036,
         'https://www.pokepedia.fr/images/thumb/e/ef/Bulbizarre-RFVF.png/644px-Bulbizarre-RFVF.png?20141212043325'
       )
     ];
